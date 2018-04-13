@@ -4,5 +4,6 @@ public class Test {
 	{
 		System.out.println("DAMN!!!!");
 		System.out.println("DAMN!!!!");
+		System.out.println("DAMN!!!!");
 	}
 }
